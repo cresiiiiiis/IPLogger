@@ -1,0 +1,81 @@
+Badlion Client
+CMClient Launcher
+desktop
+Feather Launcher
+Firefox Private Browsing
+Firefox
+Google Chrome
+Immersive Control Panel
+Soar Client
+Desktop
+Speech Recognition
+desktop
+Math Input Panel
+Paint
+Quick Assist
+Remote Desktop Connection
+Snipping Tool
+Steps Recorder
+Windows Fax and Scan
+Windows Media Player
+Wordpad
+Character Map
+desktop
+Component Services
+Computer Management
+desktop
+dfrgui
+Disk Cleanup
+Event Viewer
+iSCSI Initiator
+Memory Diagnostics Tool
+ODBC Data Sources (32-bit)
+ODBC Data Sources (64-bit)
+Performance Monitor
+Print Management
+RecoveryDrive
+Registry Editor
+Resource Monitor
+Security Configuration Management
+services
+System Configuration
+System Information
+Task Scheduler
+Windows Defender Firewall with Advanced Security
+AMD Catalyst Control Center
+Help
+Ghast on the Web
+Ghast
+Uninstall Ghast
+About Java
+Check For Updates
+Configure Java
+Get Help
+Visit Java.com
+IntelliJ IDEA 2024.1
+Desktop
+OBS Studio (64bit)
+Uninstall
+oCam
+Uninstall
+Playit.gg
+Proton VPN
+Roblox Player
+Roblox Studio
+desktop
+Desktop
+Task Manager
+Add a new TAP virtual ethernet adapter
+Delete ALL TAP virtual ethernet adapters
+UltraVNC Launcher
+UltraVNC Repeater
+UltraVNC Server Settings
+UltraVNC Server
+UltraVNC Viewer
+UltraVNC Viewer (Listen Mode Encrypt))
+UltraVNC Viewer (Listen Mode)
+UrbanVPN
+Console RAR manual
+What is new in the latest version
+WinRAR help
+WinRAR
