@@ -1,6 +1,6 @@
 # Qydic-IPLogger
 
-IPLogger is a free and open-source tool that helps you gather information about a target's system, including its private and public IP addresses, location, system information, and installed applications.
+Qydic-IPLogger is a free and open-source tool that helps you gather information about a target's system, including its private and public IP addresses, location, system information, and installed applications.
 
 ## Features
 
@@ -11,42 +11,25 @@ IPLogger is a free and open-source tool that helps you gather information about 
 
 ## Usage
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/your-username/IPLogger.git
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
-
-    ```bash
-    python a.py
-    ```
-
-4. The collected information will be sent to a Discord webhook.
+1. Edit the code with your Webhook.
+2. Download pyinstaller 'pip insall pyinstaller'
+3. Run the command prompt in the directory of the code.
+4. To generate .exe do pyinstaller --onefile --icon=your_icon.ico Code.py
 
 ## Dependencies
 
 - requests
 - psutil
 - pyinstaller (for creating an executable)
+- requests
+- socket
+- platform
+- json
+- psutil
+- win32gui, win32con
 
-## How to Contribute
+## Subscribe to me! 
+Subscribe to me to get more projects like this at `youtube.com/qydi`
 
-Contributions are welcome! Here's how you can contribute to this project:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Enjoy
+<3
